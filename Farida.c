@@ -1,0 +1,1 @@
+void farida(int x);
